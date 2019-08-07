@@ -1,0 +1,67 @@
+        .jumbotron{
+            width: 100%;
+            background-image: url(pic.jpg);
+            background-position:center;
+        }
+
+        .parallax {
+            min-height: 500px;
+            background: transparent;
+            padding: 100px 35px;
+        }
+
+        .info{
+            z-index: 2;
+            position: relative;
+        }
+
+        .lead{
+            color:white;
+        }
+        
+        #carouselExampleControls{
+            position: relative;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            padding: 1%;
+
+         } 
+
+        footer{
+            position: relative;
+            width: 100%;
+            bottom: 0%;
+        }
+
+        #socialMedia a:hover{
+            color: white;
+            text-decoration: none;
+        }
+
+        #facebook{
+            color:c4cde0;
+        }
+        #twitter{
+            color:#1da1f2;
+        }
+
+        #Google{
+            color:#d34836;
+        }
+
+        #linkedin{
+            color:#0077B5;
+        }
+
+        #instagram{
+            color:#bc2a8d;
+        }
+
+        #pinrest{
+            color:#BD081C;
+        }
+
+        #snapchat{
+            color:#FFFC00;
+        }
